@@ -1,7 +1,5 @@
 {
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ]
+  "compilerOptions": {
+    // ... aquí estarán tus opciones actuales, no las toques ...
+  }
 }
