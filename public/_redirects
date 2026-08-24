@@ -1,0 +1,3 @@
+# Enlace profundo recargado: /pelicula/238 lo resuelve el router del cliente,
+# así que el servidor tiene que devolver el index en cualquier ruta.
+/*  /index.html  200
