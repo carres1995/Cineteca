@@ -16,7 +16,8 @@
     "check-types": "tsc --noEmit",
     "test": "vitest run --coverage",
     "test:watch": "vitest",
-    "prepare": "husky"
+    "prepare": "husky",
+    "smoke": "vitest run --mode development --config vitest.smoke.config.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "5.9.1",
@@ -62,7 +63,6 @@
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.65.0",
     "vite": "^8.2.0",
-    "vite-tsconfig-paths": "6.1.1",
     "vitest": "4.1.11"
   },
   "lint-staged": {

@@ -16,7 +16,15 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
+    /* Alias: el linter ya restringe imports por @/capa, así que tienen que resolver */
+    "baseUrl": ".",
+    "paths": { "@/*": ["src/*"] },
+
     /* Linting */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "noImplicitOverride": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
