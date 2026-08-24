@@ -1,0 +1,297 @@
+{
+  "adult": false,
+  "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+  "belongs_to_collection": {
+    "id": 230,
+    "name": "El padrino - Colección",
+    "poster_path": "/1eXdkw2e5flhOZfphUe8XByVacz.jpg",
+    "backdrop_path": "/28eqCQ51SuLfkbzhQE7jCmTfYfy.jpg"
+  },
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crimen"
+    }
+  ],
+  "homepage": "",
+  "id": 238,
+  "imdb_id": "tt0068646",
+  "origin_country": ["US"],
+  "original_language": "en",
+  "original_title": "The Godfather",
+  "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+  "popularity": 62.5713,
+  "poster_path": "/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10211,
+      "logo_path": null,
+      "name": "Alfran Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 16311,
+      "logo_path": null,
+      "name": "Albert S. Ruddy Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1972-03-14",
+  "revenue": 245066411,
+  "runtime": 175,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Una oferta que no podrás rechazar",
+  "title": "El padrino",
+  "video": false,
+  "vote_average": 8.686,
+  "vote_count": 23409,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3084,
+        "known_for_department": "Acting",
+        "name": "Marlon Brando",
+        "original_name": "Marlon Brando",
+        "popularity": 3.8543,
+        "profile_path": "/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg",
+        "cast_id": 146,
+        "character": "Don Vito Corleone",
+        "credit_id": "6489aa85e2726001072483a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158,
+        "known_for_department": "Acting",
+        "name": "Al Pacino",
+        "original_name": "Al Pacino",
+        "popularity": 5.7561,
+        "profile_path": "/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg",
+        "cast_id": 147,
+        "character": "Michael Corleone",
+        "credit_id": "6489aa936f8d9500afdf219c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3085,
+        "known_for_department": "Acting",
+        "name": "James Caan",
+        "original_name": "James Caan",
+        "popularity": 4.336,
+        "profile_path": "/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg",
+        "cast_id": 148,
+        "character": "Sonny Corleone",
+        "credit_id": "6489aabc99259c00ff111136",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3087,
+        "known_for_department": "Acting",
+        "name": "Robert Duvall",
+        "original_name": "Robert Duvall",
+        "popularity": 4.0543,
+        "profile_path": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg",
+        "cast_id": 149,
+        "character": "Tom Hagen",
+        "credit_id": "6489aace99259c011c42808d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3086,
+        "known_for_department": "Acting",
+        "name": "Richard S. Castellano",
+        "original_name": "Richard S. Castellano",
+        "popularity": 1.7662,
+        "profile_path": "/1vr75BdHWret81vuSJ3ugiCBkxw.jpg",
+        "cast_id": 150,
+        "character": "Clemenza",
+        "credit_id": "6489aaf86f8d9500c88bea14",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3092,
+        "known_for_department": "Acting",
+        "name": "Diane Keaton",
+        "original_name": "Diane Keaton",
+        "popularity": 3.5877,
+        "profile_path": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg",
+        "cast_id": 151,
+        "character": "Kay Adams",
+        "credit_id": "6489ab23bf31f25055a33a46",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 457,
+        "known_for_department": "Production",
+        "name": "Albert S. Ruddy",
+        "original_name": "Albert S. Ruddy",
+        "popularity": 1.7246,
+        "profile_path": "/jSkLkR79OmqYHg0kx4WWXI1TYPP.jpg",
+        "credit_id": "52fe422bc3a36847f80093cf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3083,
+        "known_for_department": "Writing",
+        "name": "Mario Puzo",
+        "original_name": "Mario Puzo",
+        "popularity": 1.1881,
+        "profile_path": "/fLgaNLzl5kEm6iSj9SXq6leqqsX.jpg",
+        "credit_id": "52fe422bc3a36847f80093d5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776,
+        "known_for_department": "Directing",
+        "name": "Francis Ford Coppola",
+        "original_name": "Francis Ford Coppola",
+        "popularity": 3.2939,
+        "profile_path": "/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg",
+        "credit_id": "52fe422bc3a36847f80093db",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "es",
+        "iso_3166_1": "ES",
+        "name": "El Padrino | Tráiler oficial | 50 aniversario | Paramount Pictures Spain",
+        "key": "v72XprPxy3E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "623a228e6bdec30047783a25",
+        "published_at": "2022-01-13T14:05:03.000Z"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://www.thegodfather.com/",
+          "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+          "runtime": 175,
+          "tagline": "An offer you can't refuse.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte.",
+          "runtime": 175,
+          "tagline": "Ich mach ihm ein Angebot, das er nicht ablehnen kann.",
+          "title": "Der Pate"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+          "runtime": 175,
+          "tagline": "Una oferta que no podrás rechazar",
+          "title": "El padrino"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: una chica, Connie, y tres varones: el impulsivo Sonny, el pusilánime Freddie y Michael, que no quiere saber nada de los negocios de su padre. Cuando Corleone, siempre aconsejado por su consejero Tom Hagen, se niega a intervenir en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas.",
+          "runtime": 175,
+          "tagline": "Una oferta que no podrás rechazar.",
+          "title": "El Padrino"
+        }
+      },
+      {
+        "iso_3166_1": "AT",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  }
+}

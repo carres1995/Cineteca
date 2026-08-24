@@ -1,0 +1,58 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+      "genre_ids": [878, 28, 12],
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "original_language": "en",
+      "original_title": "Spider-Man: Brand New Day",
+      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "popularity": 1657.2333,
+      "poster_path": "/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "release_date": "2026-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.899,
+      "vote_count": 2104
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "genre_ids": [12, 28, 14],
+      "id": 1368337,
+      "title": "La Odisea",
+      "original_language": "en",
+      "original_title": "The Odyssey",
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "popularity": 672.5442,
+      "poster_path": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "release_date": "2026-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.998,
+      "vote_count": 3131
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+      "genre_ids": [28, 53],
+      "id": 1288445,
+      "title": "El motín",
+      "original_language": "en",
+      "original_title": "Mutiny",
+      "overview": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+      "popularity": 532.9923,
+      "poster_path": "/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+      "release_date": "2026-08-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 126
+    }
+  ],
+  "total_pages": 229,
+  "total_results": 4571
+}
