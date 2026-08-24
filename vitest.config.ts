@@ -9,6 +9,9 @@ export default defineConfig({
     environment: 'jsdom',
     globals: true,
     setupFiles: ['./vitest.setup.ts'],
+    // Sin tests todavía (andamio vacío). Falla recién cuando haya specs
+    // presentes y alguno esté roto, no por la mera ausencia de tests.
+    passWithNoTests: true,
     coverage: {
       provider: 'v8',
       reporter: ['text', 'html'],
