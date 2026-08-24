@@ -1,5 +1,5 @@
 // src/presentation/app/App.spec.tsx
-import { screen } from '@testing-library/react';
+import { screen, waitFor } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { describe, expect, it, vi } from 'vitest';
 import { aPage } from '@/test/builders';
@@ -34,15 +34,23 @@ describe('la aplicación completa', () => {
   it('al cambiar de ruta cambian el título del documento y el foco', async () => {
     renderApp();
 
-    expect(
-      await screen.findByRole('heading', { level: 1, name: 'Tendencias de la semana' }),
-    ).toHaveFocus();
+    // El foco lo mueve un efecto, que corre después de que el encabezado
+    // aparece: esperar solo al encabezado deja la prueba a merced del reloj.
+    const home = await screen.findByRole('heading', {
+      level: 1,
+      name: 'Tendencias de la semana',
+    });
+    await waitFor(() => {
+      expect(home).toHaveFocus();
+    });
     expect(document.title).toBe('Tendencias de la semana · Cineteca');
 
     await userEvent.click(screen.getByRole('link', { name: 'Buscar' }));
 
-    const heading = await screen.findByRole('heading', { level: 1, name: 'Buscar películas' });
-    expect(heading).toHaveFocus();
+    const search = await screen.findByRole('heading', { level: 1, name: 'Buscar películas' });
+    await waitFor(() => {
+      expect(search).toHaveFocus();
+    });
     expect(document.title).toBe('Buscar películas · Cineteca');
   });
 
