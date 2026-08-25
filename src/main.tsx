@@ -3,7 +3,7 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { QueryClientProvider } from '@tanstack/react-query';
-import { BrowserRouter } from 'react-router';
+import { HashRouter } from 'react-router';
 import './index.css';
 import { envError } from '@/infrastructure/config/env';
 import { createLocalLibraryRepository } from '@/infrastructure/storage/local-library-repository';
@@ -38,9 +38,9 @@ if (envError !== null) {
       <QueryClientProvider client={queryClient}>
         <CatalogProvider catalog={catalog}>
           <LibraryProvider library={library}>
-            <BrowserRouter>
+            <HashRouter>
               <App />
-            </BrowserRouter>
+            </HashRouter>
           </LibraryProvider>
         </CatalogProvider>
       </QueryClientProvider>
